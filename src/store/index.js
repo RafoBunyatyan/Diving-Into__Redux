@@ -9,10 +9,7 @@ const initialAuthState = {
 }
 
 const store = configureStore({
-	reducer: {
-		reducer: { counter: counterReducer, auth: authReducer }
-	}
-
+	reducer: { counter: counterReducer, auth: authReducer }
 })
 
 export default store;
