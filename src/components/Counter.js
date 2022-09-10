@@ -48,9 +48,7 @@ export default Counter
 // 		this.props.decrement()
 // 	}
 
-// 	toggleCounterHandler() {
-
-// 	}
+// 	toggleCounterHandler() {}
 
 // 	render() {
 // 		return (
